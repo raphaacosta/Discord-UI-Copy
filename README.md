@@ -1,5 +1,6 @@
 <h1 align="center">
   UI Copy - Discord
+  <p><a href="https://optimistic-cori-0b855f.netlify.app/">Deploy</a></p>
 </h1>
 
 <h4 align="center">
