@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  <img src=""/>
+  <img src="./Github-assets/Discord-UI-Clone.png"/>
 </h4>
 <p align="center">
   <a href="http://rocketseat.com.br">
