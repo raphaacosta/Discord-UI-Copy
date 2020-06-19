@@ -4,9 +4,6 @@
 
 <p align="center"><a href="https://optimistic-cori-0b855f.netlify.app/">Deploy</a></p>
 
-<h4 align="center">
-  <img src="./Github-assets/Discord-UI-Clone.png"/>
-</h4>
 <p align="center">
   <a href="http://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Made%20by-Rocketseat-blueviolet"/>
@@ -15,6 +12,12 @@
     <img alt="Ministered by Guilherme Rodz" src="https://img.shields.io/badge/Ministered%20by-Guilherme%20Rodz-blueviolet"/>
   </a>
 </p>
+
+# Result
+
+<h4 align="center">
+  <img src="./Github-assets/Discord-UI-Clone.png"/>
+</h4>
 
 # About the project
 
