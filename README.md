@@ -2,7 +2,7 @@
   UI Copy - Discord
 </h1>
 
-<p align="center"><a href="https://optimistic-cori-0b855f.netlify.app/">Deploy</a></p>
+<p align="center"><a href="https://optimistic-cori-0b855f.netlify.app/" target="_blank">Deploy</a></p>
 
 <p align="center">
   <a href="http://rocketseat.com.br">
